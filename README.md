@@ -1,6 +1,6 @@
 # Hi, I’m Joefrey Ramos  
 
-👨‍💻 **Full Stack Developer | Problem Solver**  
+👨‍💻 **Full Stack Developer**  
 
 I specialize in building **scalable web applications** and crafting clean, efficient code. With experience in **JavaScript/TypeScript, React, Next.js, Node.js, PHP/Laravel, and PostgreSQL**, I enjoy solving complex challenges and delivering impactful solutions.  
 
